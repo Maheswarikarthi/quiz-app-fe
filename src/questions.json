@@ -1,0 +1,22 @@
+[{
+  "id": 1,
+  "question":"What is captial of France?",
+  "options":["Berlin","Paris","Rome","Madrid"],
+  "correctOption":"Paris"
+},
+{
+  "id": 2,
+  "question":"Which planet is known as the red planet?",
+  "options":["Mars","Earth","Saturn","Venus"],
+  "correctOption":"Mars"
+},
+{
+  "id": 3,
+  "question":"What is captial of India?",
+  "options":["Delhi","Mumbai","Punjab","Calcutta"],
+  "correctOption":"Paris"
+}
+
+
+
+]
